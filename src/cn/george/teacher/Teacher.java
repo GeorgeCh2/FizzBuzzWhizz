@@ -1,8 +1,8 @@
 package cn.george.teacher;
 
-import cn.george.rule.IRule;
-import cn.george.rule.RuleImpl;
-import cn.george.student.Student;
+import cn.george.rule.BuzzRuleHandler;
+import cn.george.rule.FizzRuleHandler;
+import cn.george.rule.WhizzRuleHandler;
 
 /**
  * Create by Intellij Idea.
@@ -12,10 +12,19 @@ import cn.george.student.Student;
  */
 public class Teacher {
     public static void main(String[] args){
-        IRule rule = new RuleImpl(3, 5, 7);
-        for (int i = 1; i <= 100; i++) {
-            Student student = new Student(i, rule);
-            student.report();
+        int []numbers = {3, 5, 7};
+        String []results = {"Fizz", "Buzz", "Whizz"};
+
+        FizzRuleHandler fizz = new FizzRuleHandler(numbers[0], results[0]);
+        BuzzRuleHandler buzz = new BuzzRuleHandler(numbers[1], results[1]);
+        WhizzRuleHandler whizz = new WhizzRuleHandler(numbers[2], results[2]);
+
+        fizz.setNextHandler(buzz);
+        buzz.setNextHandler(whizz);
+
+        for (int i = 1; i <= 100; i ++) {
+            fizz.doResult(i,false);
+            System.out.println();
         }
     }
 }
