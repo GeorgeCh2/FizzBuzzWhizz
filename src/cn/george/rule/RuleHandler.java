@@ -36,11 +36,6 @@ abstract class RuleHandler {
         this.specialNumber = specialNumber;
     }
 
-    public RuleHandler(int specialNumber, String para_result) {
-        this.specialNumber = specialNumber;
-        this.para_result = para_result;
-    }
-
     public String getPara_result() {
         return para_result;
     }

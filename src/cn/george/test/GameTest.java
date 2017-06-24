@@ -68,12 +68,20 @@ public class GameTest {
     private void test(int []numbers) {
         String []results = {"Fizz", "Buzz", "Whizz"};
 
-        FizzRuleHandler fizz = new FizzRuleHandler(numbers[0], results[0]);
-        BuzzRuleHandler buzz = new BuzzRuleHandler(numbers[1], results[1]);
-        WhizzRuleHandler whizz = new WhizzRuleHandler(numbers[2], results[2]);
+        FizzRuleHandler fizz = new FizzRuleHandler();
+        BuzzRuleHandler buzz = new BuzzRuleHandler();
+        WhizzRuleHandler whizz = new WhizzRuleHandler();
 
+        fizz.setSpecialNumber(numbers[0]);
+        fizz.setPara_result(results[0]);
         fizz.setNextHandler(buzz);
+
+        buzz.setSpecialNumber(numbers[1]);
+        buzz.setPara_result(results[1]);
         buzz.setNextHandler(whizz);
+
+        whizz.setSpecialNumber(numbers[2]);
+        whizz.setPara_result(results[2]);
 
         for (int i = 1; i <= 100; i ++) {
             fizz.doResult(i,false);

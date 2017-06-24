@@ -7,9 +7,6 @@ package cn.george.rule;
  * @Create on 2017/6/23
  */
 public class WhizzRuleHandler extends RuleHandler {
-    public WhizzRuleHandler(int specialNumber, String para_result) {
-        super(specialNumber, para_result);
-    }
 
     @Override
     public void doResult(int number, boolean isHandle) {

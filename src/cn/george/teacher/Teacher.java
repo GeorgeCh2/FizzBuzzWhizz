@@ -1,8 +1,8 @@
 package cn.george.teacher;
 
-import cn.george.rule.BuzzRuleHandler;
 import cn.george.rule.FizzRuleHandler;
-import cn.george.rule.WhizzRuleHandler;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Create by Intellij Idea.
@@ -12,15 +12,10 @@ import cn.george.rule.WhizzRuleHandler;
  */
 public class Teacher {
     public static void main(String[] args){
-        int []numbers = {3, 5, 7};
-        String []results = {"Fizz", "Buzz", "Whizz"};
+        String[] locations = {"applicationContext.xml"};
+        ApplicationContext context = new ClassPathXmlApplicationContext(locations);
 
-        FizzRuleHandler fizz = new FizzRuleHandler(numbers[0], results[0]);
-        BuzzRuleHandler buzz = new BuzzRuleHandler(numbers[1], results[1]);
-        WhizzRuleHandler whizz = new WhizzRuleHandler(numbers[2], results[2]);
-
-        fizz.setNextHandler(buzz);
-        buzz.setNextHandler(whizz);
+        FizzRuleHandler fizz = (FizzRuleHandler) context.getBean("fizzRule");
 
         for (int i = 1; i <= 100; i ++) {
             fizz.doResult(i,false);

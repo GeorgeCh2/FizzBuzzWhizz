@@ -7,14 +7,12 @@ package cn.george.rule;
  * @Create on 2017/6/23
  */
 public class FizzRuleHandler extends RuleHandler {
-    public FizzRuleHandler(int specialNumber, String para_result) {
-        super(specialNumber, para_result);
-    }
-
+    public FizzRuleHandler(){}
     @Override
     public void doResult(int number, boolean isHandle) {
         int specialNumber = this.getSpecialNumber();
         String para_result = this.getPara_result();
+
         if (number % 10 - specialNumber == 0 ||
                 (number - (specialNumber * 10) >= 0 &&
                         number - (specialNumber * 10) < 10 && specialNumber != 0)){
@@ -32,8 +30,8 @@ public class FizzRuleHandler extends RuleHandler {
             isHandle = true;
         }
 
-        if (this.getNextHandler() != null) {
-            this.getNextHandler().doResult(number, isHandle);
+        if (getNextHandler()!= null) {
+            getNextHandler().doResult(number, isHandle);
         }
     }
 }

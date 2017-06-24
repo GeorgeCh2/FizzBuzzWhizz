@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context.xsd
+                           http://www.springframework.org/schema/aop
+                           http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--引入外部属性文件-->
+    <context:property-placeholder location="classpath:config.properties"/>
+
+    <bean id="parentRule" class="cn.george.rule.RuleHandler" abstract="true"></bean>
+
+    <bean id="fizzRule" class="cn.george.rule.FizzRuleHandler" parent="parentRule">
+        <property name="specialNumber" value="${FizzRule.SpecialNumber}"/>
+        <property name="para_result" value="${FizzRule.Para_result}"/>
+        <property name="nextHandler" ref="buzzRule"/>
+    </bean>
+
+    <bean id="buzzRule" class="cn.george.rule.BuzzRuleHandler" parent="parentRule">
+        <property name="specialNumber" value="${BuzzRule.SpecialNumber}"/>
+        <property name="para_result" value="${BuzzRule.Para_result}"/>
+        <property name="nextHandler" ref="whizzRule"/>
+    </bean>
+
+    <bean id="whizzRule" class="cn.george.rule.WhizzRuleHandler" parent="parentRule">
+        <property name="specialNumber" value="${WhizzRule.SpecialNumber}"/>
+        <property name="para_result" value="${WhizzRule.Para_result}"/>
+    </bean>
+</beans>
