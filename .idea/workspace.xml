@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94172835-620b-4e87-8495-99cae14b35ba" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/BuzzRuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/BuzzRuleHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/FizzRuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/FizzRuleHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/RuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/RuleHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/WhizzRuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/WhizzRuleHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/test/GameTest.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/test/GameTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/FizzBuzzWhizz_jar/FizzBuzzWhizz.jar" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzzWhizz_jar/FizzBuzzWhizz.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/FizzBuzzWhizz_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/FizzBuzzWhizz_jar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/applicationContext.xml" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/test/GameTest.java" afterPath="$PROJECT_DIR$/src/cn/george/test/GameTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -935,7 +925,7 @@
       <option name="presentableId" value="Default" />
       <updated>1498217559754</updated>
       <workItem from="1498217561403" duration="12414000" />
-      <workItem from="1498268314661" duration="16328000" />
+      <workItem from="1498268314661" duration="17197000" />
     </task>
     <servers />
   </component>
@@ -972,7 +962,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28742000" />
+    <option name="totallyTimeSpent" value="29611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -999,8 +989,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />

@@ -3,28 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/FizzBuzzWhizz_jar</output-path>
     <root id="archive" name="FizzBuzzWhizz.jar">
       <element id="module-output" name="FizzBuzzWhizz" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/aspectjrt.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/aspectjweaver.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/aopalliance-1.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/commons-logging-1.2.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-tx-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-aop-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-jms-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-orm-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-oxm-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-core-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-jdbc-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-test-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-beans-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-aspects-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-context-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-messaging-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-expression-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-instrument-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-context-support-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="E:/Web框架库/Spring/spring-instrument-tomcat-4.3.8.RELEASE.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0-M4.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/opentest4j-1.0.0-M2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
