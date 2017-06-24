@@ -30,4 +30,5 @@
         <property name="specialNumber" value="${WhizzRule.SpecialNumber}"/>
         <property name="para_result" value="${WhizzRule.Para_result}"/>
     </bean>
+
 </beans>

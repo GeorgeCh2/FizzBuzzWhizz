@@ -65,6 +65,7 @@ public class GameTest {
         test(numbers);
     }
 
+
     private void test(int []numbers) {
         String []results = {"Fizz", "Buzz", "Whizz"};
 

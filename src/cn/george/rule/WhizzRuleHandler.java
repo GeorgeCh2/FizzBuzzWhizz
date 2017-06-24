@@ -18,7 +18,8 @@ public class WhizzRuleHandler extends RuleHandler {
             isHandle = true;
         }
 
-        if (!isHandle)
+        if (!isHandle) {
             System.out.print(number);
+        }
     }
 }

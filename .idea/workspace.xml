@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94172835-620b-4e87-8495-99cae14b35ba" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/BuzzRuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/BuzzRuleHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/FizzRuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/FizzRuleHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/RuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/RuleHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/WhizzRuleHandler.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/rule/WhizzRuleHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/test/GameTest.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/cn/george/test/GameTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/applicationContext.xml" afterPath="$PROJECT_DIR$/out/production/FizzBuzzWhizz/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/applicationContext.xml" afterPath="$PROJECT_DIR$/src/applicationContext.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java" afterPath="$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/teacher/Teacher.java" afterPath="$PROJECT_DIR$/src/cn/george/teacher/Teacher.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/george/test/GameTest.java" afterPath="$PROJECT_DIR$/src/cn/george/test/GameTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +30,8 @@
       <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/george/teacher/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+            <state relative-caret-position="300">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,18 +42,18 @@
       <file leaf-file-name="BuzzRuleHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+            <state relative-caret-position="440">
+              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="12" column="74" lean-forward="false" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            <state relative-caret-position="640">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="e#1084#1111#0" expanded="true" />
                 <element signature="e#1157#1182#0" expanded="true" />
@@ -72,11 +79,14 @@
       <file leaf-file-name="RuleHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="47" column="62" lean-forward="false" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+            <state relative-caret-position="385">
+              <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
               <folding>
-                <marker date="1498273054062" expanded="false" signature="742:753" ph=" { " />
-                <marker date="1498273054062" expanded="false" signature="772:778" ph=" }" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+                <marker date="1498289125598" expanded="false" signature="742:753" ph=" { " />
+                <marker date="1498289125598" expanded="false" signature="772:778" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -85,8 +95,8 @@
       <file leaf-file-name="WhizzRuleHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="420">
+              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -95,8 +105,8 @@
       <file leaf-file-name="FizzRuleHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
-              <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="285">
+              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -105,8 +115,20 @@
       <file leaf-file-name="GameTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/george/test/GameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="83" column="38" lean-forward="false" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+            <state relative-caret-position="360">
+              <caret line="84" column="41" lean-forward="true" selection-start-line="75" selection-start-column="8" selection-end-line="84" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/george/test/InputTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,13 +168,14 @@
         <option value="$PROJECT_DIR$/src/cn/george/test/Test.java" />
         <option value="$PROJECT_DIR$/src/config.properties" />
         <option value="$PROJECT_DIR$/src/cn/george/teacher/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/cn/george/test/GameTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/george/rule/AspectBean.java" />
-        <option value="$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java" />
         <option value="$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java" />
+        <option value="$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java" />
+        <option value="$PROJECT_DIR$/src/cn/george/rule/AspectBean.java" />
         <option value="$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java" />
-        <option value="$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java" />
         <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java" />
+        <option value="$PROJECT_DIR$/src/cn/george/test/GameTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/george/test/InputTest.java" />
       </list>
     </option>
   </component>
@@ -187,6 +210,16 @@
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzWhizz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="FizzBuzzWhizz" />
@@ -289,6 +322,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzWhizz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzWhizz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzWhizz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzWhizz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzWhizz_jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -299,8 +368,8 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -329,59 +398,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Teacher">
-    <configuration default="false" name="GameTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.george.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="FizzBuzzWhizz" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.george.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.george.test.GameTest" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="GameTest.test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.george.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="FizzBuzzWhizz" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.george.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.george.test.GameTest" />
-      <option name="METHOD_NAME" value="test08" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.InputTest">
     <configuration default="false" name="Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -400,32 +417,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="FizzBuzzWhizz" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GameTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.george.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="FizzBuzzWhizz" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.george.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.george.test.GameTest" />
-      <option name="METHOD_NAME" value="test07" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="false" name="GameTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -452,6 +443,78 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameTest.test09" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.george.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="FizzBuzzWhizz" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.george.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.george.test.GameTest" />
+      <option name="METHOD_NAME" value="test09" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameTest.test09 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.george.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="FizzBuzzWhizz" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.george.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.george.test.GameTest" />
+      <option name="METHOD_NAME" value="test09(java.lang.String[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.george.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.george.test.InputTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FizzBuzzWhizz" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -842,19 +905,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.GameTest.test04" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.GameTest.test08" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Teacher" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.GameTest.test07" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.GameTest.test03" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Teacher" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.GameTest.test03" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GameTest.test09" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GameTest.test09 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.InputTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Teacher" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.GameTest.test08" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.GameTest.test03" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.GameTest.test04" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.GameTest.test07" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InputTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GameTest.test09" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GameTest.test09 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Teacher" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.GameTest.test03" />
       </list>
     </recent_temporary>
   </component>
@@ -872,48 +935,47 @@
       <option name="presentableId" value="Default" />
       <updated>1498217559754</updated>
       <workItem from="1498217561403" duration="12414000" />
-      <workItem from="1498268314661" duration="7650000" />
+      <workItem from="1498268314661" duration="16328000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GameTest_test03 - 2017.06.24 at 10h 50m 34s.xml">
+    <history-entry file="GameTest_test01 - 2017.06.24 at 12h 14m 09s.xml">
+      <configuration name="GameTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_test01 - 2017.06.24 at 12h 15m 12s.xml">
+      <configuration name="GameTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_test03 - 2017.06.24 at 15h 13m 12s.xml">
       <configuration name="GameTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_test04 - 2017.06.24 at 10h 50m 24s.xml">
+    <history-entry file="GameTest_test03 - 2017.06.24 at 15h 18m 16s.xml">
+      <configuration name="GameTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameTest_test04 - 2017.06.24 at 15h 13m 00s.xml">
       <configuration name="GameTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_test07 - 2017.06.24 at 10h 50m 15s.xml">
-      <configuration name="GameTest.test07" configurationId="JUnit" />
+    <history-entry file="GameTest_test09 - 2017.06.24 at 16h 06m 41s.xml">
+      <configuration name="GameTest.test09" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_test08 - 2017.06.24 at 10h 49m 52s.xml">
-      <configuration name="GameTest.test08" configurationId="JUnit" />
+    <history-entry file="GameTest_test09 - 2017.06.24 at 16h 08m 30s.xml">
+      <configuration name="GameTest.test09" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameTest_test08 - 2017.06.24 at 10h 59m 36s.xml">
-      <configuration name="GameTest.test08" configurationId="JUnit" />
+    <history-entry file="GameTest_test09 - 2017.06.24 at 16h 10m 46s.xml">
+      <configuration name="GameTest.test09" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test02 - 2017.06.23 at 22h 54m 01s.xml">
-      <configuration name="Test.test02" configurationId="JUnit" />
+    <history-entry file="GameTest_test09 - 2017.06.24 at 16h 11m 07s.xml">
+      <configuration name="GameTest.test09" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test03 - 2017.06.23 at 22h 55m 21s.xml">
-      <configuration name="Test.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test04 - 2017.06.23 at 22h 56m 23s.xml">
-      <configuration name="Test.test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test05 - 2017.06.23 at 22h 57m 24s.xml">
-      <configuration name="Test.test05" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test06 - 2017.06.23 at 22h 58m 05s.xml">
-      <configuration name="Test.test06" configurationId="JUnit" />
+    <history-entry file="GameTest_test09_(1) - 2017.06.24 at 16h 09m 32s.xml">
+      <configuration name="GameTest.test09 (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20064000" />
+    <option name="totallyTimeSpent" value="28742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -934,11 +996,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -987,8 +1049,11 @@
         <state relative-caret-position="180">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <marker date="1498273054062" expanded="false" signature="742:753" ph=" { " />
-            <marker date="1498273054062" expanded="false" signature="772:778" ph=" }" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <marker date="1498289125598" expanded="false" signature="742:753" ph=" { " />
+            <marker date="1498289125598" expanded="false" signature="772:778" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -1040,73 +1105,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/george/rule/AspectBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/george/test/GameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="83" column="38" lean-forward="false" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/george/rule/RuleHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="47" column="62" lean-forward="false" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+        <state relative-caret-position="385">
+          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
           <folding>
-            <marker date="1498273054062" expanded="false" signature="742:753" ph=" { " />
-            <marker date="1498273054062" expanded="false" signature="772:778" ph=" }" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <marker date="1498289125598" expanded="false" signature="742:753" ph=" { " />
+            <marker date="1498289125598" expanded="false" signature="772:778" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/george/rule/AspectBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        <state relative-caret-position="340">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/george/rule/BuzzRuleHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        <state relative-caret-position="440">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/george/rule/FizzRuleHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        <state relative-caret-position="285">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/george/teacher/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="12" column="74" lean-forward="false" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        <state relative-caret-position="640">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="e#1084#1111#0" expanded="true" />
             <element signature="e#1157#1182#0" expanded="true" />
@@ -1114,6 +1154,44 @@
             <element signature="e#1454#1479#0" expanded="true" />
             <element signature="e#1681#1709#0" expanded="true" />
             <element signature="e#1755#1781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/george/rule/WhizzRuleHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/george/teacher/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/george/test/GameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="84" column="41" lean-forward="true" selection-start-line="75" selection-start-column="8" selection-end-line="84" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/george/test/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1135,10 +1213,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>FizzBuzzWhizz:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

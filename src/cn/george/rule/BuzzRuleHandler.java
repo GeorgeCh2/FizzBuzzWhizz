@@ -9,7 +9,7 @@ package cn.george.rule;
 public class BuzzRuleHandler extends RuleHandler {
 
     @Override
-    public void doResult(int number, boolean isHandle) {
+    public void doResult(int number, boolean isHandle ) {
         int specialNumber = this.getSpecialNumber();
         String para_result = this.getPara_result();
 

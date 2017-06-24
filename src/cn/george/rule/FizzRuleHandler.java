@@ -30,7 +30,7 @@ public class FizzRuleHandler extends RuleHandler {
             isHandle = true;
         }
 
-        if (getNextHandler()!= null) {
+        if (getNextHandler() != null) {
             getNextHandler().doResult(number, isHandle);
         }
     }

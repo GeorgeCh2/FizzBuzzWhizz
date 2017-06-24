@@ -44,6 +44,14 @@ abstract class RuleHandler {
         this.para_result = para_result;
     }
 
+    public boolean isHandle() {
+        return isHandle;
+    }
+
+    public void setHandle(boolean handle) {
+        isHandle = handle;
+    }
+
     //规则处理
     public abstract void doResult(int number, boolean isHandle);
 }
